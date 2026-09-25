@@ -1,0 +1,16 @@
+# course materials
+seminar/
+home_work_one.md
+
+# not part of the HW1 deliverables
+/README.md
+hw1/derivations_draft.md
+hw1/model_diagram.svg
+hw1/requirements.txt
+hw1/results/env.json
+hw1/results/measure_log.txt
+hw1/results/quick/
+
+# Python
+__pycache__/
+.ipynb_checkpoints/
