@@ -1,0 +1,8 @@
+{
+  "method": "grand_e20",
+  "fraction": 0.7,
+  "seed": 101,
+  "train_size": 15000,
+  "test_accuracy": 0.9014,
+  "train_seconds": 828.4
+}

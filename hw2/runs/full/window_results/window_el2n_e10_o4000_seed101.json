@@ -1,0 +1,9 @@
+{
+  "score": "el2n_e10",
+  "offset": 4000,
+  "keep_fraction": 0.4,
+  "seed": 101,
+  "train_size": 20000,
+  "test_accuracy": 0.9273,
+  "train_seconds": 1109.8
+}

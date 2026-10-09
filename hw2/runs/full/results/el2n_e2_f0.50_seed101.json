@@ -1,0 +1,8 @@
+{
+  "method": "el2n_e2",
+  "fraction": 0.5,
+  "seed": 101,
+  "train_size": 25000,
+  "test_accuracy": 0.9261,
+  "train_seconds": 1371.8
+}

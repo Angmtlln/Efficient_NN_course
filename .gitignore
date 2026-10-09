@@ -11,6 +11,14 @@ hw1/results/env.json
 hw1/results/measure_log.txt
 hw1/results/quick/
 
+# not part of the HW2 deliverables
+hw2/data/
+hw2/2107.07075v2.pdf
+hw2/runs/smoke/
+hw2/runs/full/logs/
+hw2/runs/full/scores/raw/
+
 # Python
 __pycache__/
 .ipynb_checkpoints/
+.venv/

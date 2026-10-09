@@ -1,0 +1,8 @@
+{
+  "method": "random",
+  "fraction": 0.9,
+  "seed": 100,
+  "train_size": 5000,
+  "test_accuracy": 0.7907,
+  "train_seconds": 283.6
+}

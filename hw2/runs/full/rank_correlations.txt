@@ -1,0 +1,6 @@
+spearman(el2n_e20, grand_e0) = -0.066
+spearman(el2n_e20, grand_e20) = 0.982
+spearman(el2n_e20, input_norm) = -0.044
+spearman(grand_e0, grand_e20) = -0.061
+spearman(grand_e0, input_norm) = 0.855
+spearman(grand_e20, input_norm) = -0.035

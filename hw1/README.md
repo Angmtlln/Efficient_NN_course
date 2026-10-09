@@ -7,9 +7,8 @@ Closed-form models of FLOPs, peak memory, latency and energy for a small sequent
 | | |
 |---|---|
 | GPU | NVIDIA GeForce RTX 4070, 12 GB GDDR6X (FP32 peak ≈ 29 TFLOP/s, 504 GB/s, L2 36 MB), power limit 160 W (NVML) |
-| Driver | 576.80 |
 | Software | Python 3.11.0, PyTorch 2.7.1+cu118, CUDA 11.8, cuDNN 9.1.0 |
-| OS | Windows 11 (build 26200) |
+| OS | Windows 11 |
 | Mode | `eval()`, `torch.inference_mode()`, FP32, `cudnn.benchmark = False`, TF32 disabled |
 
 ## How to reproduce
